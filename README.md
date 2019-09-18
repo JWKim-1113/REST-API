@@ -3,10 +3,10 @@
 > 해당 저장소는 TDD 기반의 인스타그램 clone을 목표로 진행되는 프로젝트의 예제를 저장소 입니다. 
 
 ## 필수사항
-- [ ] IntelliJ IDEA Ultimate ( >= 2019.02)
-- [ ] openJDK ( >= 11)
-- [ ] MySQL ( == 5.7.x)
-    - [ ] Workbench
+- [X] IntelliJ IDEA Ultimate ( >= 2019.02)
+- [X] openJDK ( >= 11)
+- [X] MySQL ( == 5.7.x)
+    - [X] Workbench
 
 ## 9월 18일 - Spring 기반 테스트 코드 작성
 
